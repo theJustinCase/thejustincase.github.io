@@ -1,0 +1,11 @@
+# Site settings
+title: "the Justin Case"
+email: justin@theJustinCase.net
+author: "Justin Brown"
+description: "Sharing my experiences and discoveries"
+url:
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
